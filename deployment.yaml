@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: jh0321/mywebapp-kosa:5
+        image: jh0321/mywebapp-kosa:6
         ports:
         - containerPort: 8080
